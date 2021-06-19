@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776514957123",
+    "project_id": "animequiz-7e158",
+    "storage_bucket": "animequiz-7e158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776514957123:android:b81ad5c280be38818c49f6",
+        "android_client_info": {
+          "package_name": "my.app.anime_quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776514957123-fhppo8plusnovf2sal19atng9mrklkea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0k9Sf5NHTJa3QLZRR2gpnlko3zZK1KH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776514957123-fhppo8plusnovf2sal19atng9mrklkea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
